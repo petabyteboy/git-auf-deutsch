@@ -1,7 +1,7 @@
 # Git auf Deutsch
 
 Die tägliche Kommunikation in deutschen Entwicklungsteams, die `git`
-(übersetzt: `Schwachkopf` oder `Depp`) anwenden, ist oft das feinste Denglish.
+(übersetzt: `Arschloch` oder `Mistkerl`) anwenden, ist oft das feinste Denglish.
 _"Kannst du bitte pullen"_ oder _"Hast du gepusht"_ sind nur zwei
 der oft seltsam klingenden Konstruktionen.
 
@@ -32,10 +32,10 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 
 | Substantiv    | Aktueller Gebrauch | Vorschlag            |
 |---------------|--------------------|----------------------|
-| git           | git                | Depp                 |
-| github        | github             | Deppendrehkreuz      |
-| gitlab        | gitlab             | Deppenlabor          |
-| gitea         | gitea              | Deppentee                
+| git           | git                | Arschloch                 |
+| github        | github             | Arschlochdrehkreuz      |
+| gitlab        | gitlab             | Arschlochlabor          |
+| gitea         | gitea              | Arschlochtee                
 | bitbucket     | bitbucket          | Gebisseimer          |
 | repository    | repo               | Lagerstätte          |
 | branch        | branch             | Zweig                |
@@ -51,7 +51,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 
 ## Beispiele
 
-    - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und zum Deppendrehkreuz drücken?
+    - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und zum Arschlochdrehkreuz drücken?
 
     - Dafür habe ich eine neue Lagerstätte eröffnet, mach sie nach und nimm dir den Entwicklungszweig.
 
@@ -63,11 +63,11 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 
     - Am besten wir picken uns die Rosinen aus dem Meisterzweig heraus.
 
-    - Gabeln Sie auf Deppendrehkreuz!
+    - Gabeln Sie auf Arschlochdrehkreuz!
 
-## Depp auf Deutsch anwenden
+## Arschloch auf Deutsch anwenden
 
-Wer den nächsten Schritt machen will, hier eine Anleitung, die Depp auf Deutsch in Deine Konsole bringt. Da Depp keine Umlaute zulässt, müssen wir in den Befehlen leider darauf verzichten. Nimm folgende Änderungen in deiner `~/.gitconfig` vor:
+Wer den nächsten Schritt machen will, hier eine Anleitung, die Arschloch auf Deutsch in Deine Konsole bringt. Da Arschloch keine Umlaute zulässt, müssen wir in den Befehlen leider darauf verzichten. Nimm folgende Änderungen in deiner `~/.gitconfig` vor:
 
     git config --global alias.eroeffne init
     git config --global alias.machnach clone
@@ -89,4 +89,4 @@ Wer den nächsten Schritt machen will, hier eine Anleitung, die Depp auf Deutsch
 
 Und füge die folgende Zeile zu deiner `~/.bashrc` (oder das Äquivalent auf deinem Betriebssystem) hinzu:
 
-    alias depp=git
+    alias arschloch=git
